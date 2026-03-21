@@ -1,13 +1,14 @@
 # Сережа Рис
 
-Personal CORP CEO
+Основатель Кружка Вайбкодинга.
 
-Строю AI-агентные системы c партнерами. 
-Мои партнеры — Claude Code и Codex. 
+Помогаю фаундерам и операторам в небольших командах внедрять AI в ежедневные процессы: собирать ботов, internal tools и автоматизации для продукта и операционки.
+
+Показываю это публично через статьи, open source репозитории, разборы и демо.
 
 ---
 
-📝 **Читать** → [sereja.tech](https://sereja.tech) — статьи про паттерны Claude Code
-📺 **Смотреть** → [YouTube](https://www.youtube.com/@serejaris) — процесс вживую
+📝 **Читать** → [sereja.tech](https://sereja.tech) — боты, пайплайны, Personal Corp и внедрение AI-систем
+📺 **Смотреть** → [YouTube](https://www.youtube.com/@serejaris) — разборы и демо
 💬 **Общаться** → [@vibecod3rs](https://t.me/vibecod3rs) — комьюнити вайбкодеров
-📣 **Следить** → [@ris_ai](https://t.me/ris_ai) — канал
+📣 **Следить** → [@ris_ai](https://t.me/ris_ai) — канал и короткие наблюдения
